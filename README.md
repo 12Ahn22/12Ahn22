@@ -1,4 +1,4 @@
-### Hi there, ✨I'm 12Ahn22 👋
+## Hi there, ✨I'm 12Ahn22 👋
 
 - 🌱 I’m currently learning React and Node.js
 - 😊 I’m interested in web development, CG...and HarryPotter🔮
