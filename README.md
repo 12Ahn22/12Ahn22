@@ -12,3 +12,7 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white) 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white)  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+
+### 🎶 My Blog
+TIL / 일상 / 기술 블로그 
+[👍 티스토리 ](https://12ahn22.tistory.com/)
